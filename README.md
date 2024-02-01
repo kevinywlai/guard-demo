@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+```shell
+ 1010  ng g c page2
+ 1011  ng g c page1
+ 1012  ng g c main
+ 1013  ng g model Authorize
+ 1014  ng g class Authorize
+ 1015  ng g guard Authorize
+ 1016  ng g s Authorize
+ 1017  ng g class Authorizes
+
+```
+
+
+ "outputPath": "dist/guard-demo",
